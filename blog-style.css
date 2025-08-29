@@ -21,7 +21,7 @@ footer ul, footer ol{font-size: 20px;
 footer h2{font-size: 30px;}
 @media (max-width: 600px){
     h1 {font-size: 15px;}
-    p, ol, ul {font-size: 7.5px;}
+    p, ol, ul {font-size:8px;}
     h2{font-size: 10px}
     footer ul, footer ol{font-size: 5px;}
 }
