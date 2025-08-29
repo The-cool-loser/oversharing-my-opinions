@@ -1,11 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aladin&display=swap');
 body {background-color: rgb(243, 243, 216);}
-h1 {text-align: center;}
+h1 {text-align: center; font-family: "Aladin", system-ui; font-size: 60px;}
 div {display: flex;
     justify-content: center;}
 img {width: 50%S}
 p, h2{margin-left: 20%;
-margin-right: 10%}
-p {font-size: 30px}
+margin-right: 10%; font-family: "Grand Hotel", cursive;}
+p {font-size: 30px; font-family: "Overlock", sans-serif;}
 h2{font-size: 40px}
 header{background-color:white;
 text-align: center;}
