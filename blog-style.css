@@ -9,7 +9,7 @@ div {display: flex;
 main img {max-width: 50%;}
 p, h2, ol, ul{margin-left: 20%;
 margin-right: 10%; font-family: "Grand Hotel", cursive;}
-p {font-size: 30px; font-family: "Overlock", sans-serif;}
+p, ol, ul {font-size: 30px; font-family: "Overlock", sans-serif;}
 h2{font-size: 40px}
 header{background-color:white;
 text-align: center;}
