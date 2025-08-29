@@ -6,11 +6,11 @@ body, html {margin-top: 0%;}
 h1 {text-align: center; font-family: "Aladin", system-ui; font-size: 60px;}
 div {display: flex;
     justify-content: center;}
-main img {max-width: 50%;}
-p, h2, ol, ul{margin-left: 20%;
+main img {max-width: 375%;}
+p, h2, ol, ul{margin-left: 150%;
 margin-right: 10%; font-family: "Grand Hotel", cursive;}
-p, ol, ul {font-size: 30px; font-family: "Overlock", sans-serif;}
-h2{font-size: 40px}
+p, ol, ul {font-size: 225%; font-family: "Overlock", sans-serif;}
+h2{font-size: 300%}
 header{background-color:white;
 text-align: center;}
 .description {color: #80808088; font-size: 10px; text-align: center; font-style:italic;}
@@ -18,4 +18,4 @@ a {color: red; text-decoration: none;}
 footer{text-align: right; opacity: 0.5;}
 footer ul, footer ol{font-size: 20px;
         list-style-position: inside}
-footer h2{font-size: 30px;}
+footer h2{font-size: 225%;}
