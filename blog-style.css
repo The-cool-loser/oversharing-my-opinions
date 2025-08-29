@@ -15,4 +15,5 @@ header{background-color:white;
 text-align: center;}
 .description {color: #80808088; font-size: 10px; text-align: center; font-style:italic;}
 a {color: red; text-decoration: none;}
-footer{text-align: right;}
+footer{text-align: right; font-size: 20px;}
+footer h2{font-size: 30px;}
