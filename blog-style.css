@@ -20,8 +20,8 @@ footer ul, footer ol{font-size: 20px;
         list-style-position: inside}
 footer h2{font-size: 30px;}
 @media (max-width: 600px){
-    h1{font-size: 6%;}
-    p, ol, ul {font-size: 3%;}
-    h2{font-size: 4%;}
-    footer ul, footer ol {font-size:2%;}
+    h1{font-size: 30px;}
+    p, ol, ul {font-size: 15px;}
+    h2{font-size: 20px;}
+    footer ul, footer ol {font-size:10px;}
 }
