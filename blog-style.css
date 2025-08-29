@@ -7,7 +7,7 @@ h1 {text-align: center; font-family: "Aladin", system-ui; font-size: 450%;}
 div {display: flex;
     justify-content: center;}
 main img {max-width: 375%;}
-p, h2, ol, ul{margin-left: 150%;
+p, h2, ol, ul{margin-left: 100%;
 margin-right: 10%; font-family: "Grand Hotel", cursive;}
 p, ol, ul {font-size: 225%; font-family: "Overlock", sans-serif;}
 h2{font-size: 300%}
